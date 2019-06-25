@@ -4,3 +4,4 @@ The Traveling Salesman Problem is one of the most intensively studied problems i
 
 The shortest distance is 16,800 km. The map and route is in the jupiter notebook
 
+
